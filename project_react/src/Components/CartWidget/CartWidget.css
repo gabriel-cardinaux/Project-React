@@ -1,0 +1,16 @@
+.Cartwidget{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.shopcart{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: 30px;
+    background-color: black;
+
+}

@@ -1,0 +1,27 @@
+.NavBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100vw;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.NavBar h1{
+    color: azure;
+    display: flex;
+    justify-content: first baseline;
+    
+}
+.NavBar li{
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px
+
+}
+
+.NavBar ul{
+    display: flex;
+    flex-direction: row;
+}
