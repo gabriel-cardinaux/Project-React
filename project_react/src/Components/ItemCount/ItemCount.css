@@ -1,0 +1,13 @@
+.Counter{
+display: flex;
+}
+
+.Controls{
+display: flex;
+}
+.Button{
+display: flex;
+}
+.Number{
+display: flex;
+}
